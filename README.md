@@ -3,8 +3,8 @@ Supplementary code and results to the paper "Attention in Recurrent Neural Netwo
 Disaggregation", written by: Nikolaos Virtsionis Gkalinikis, Christoforos Nalmpantis, and Dimitris Vrakas
 
 Abstract. 
-Energy disaggregation refers to the separation of appliance-level data from an aggre -
-gate energy signal originated from a single-meter, without the use of any other device-specific
+Energy disaggregation refers to the separation of appliance-level data from an aggregate
+energy signal originated from a single-meter, without the use of any other device-specific
 sensors. Due to the fact that deep learning caught great attention in the last decade, numerous
 techniques using Artificial Neural Networks (ANN) have been developed to accomplish this
 task. Whereas most of the current research focuses on achieving better performance, the goal of
