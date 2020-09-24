@@ -13,5 +13,12 @@ nism. A thorough analysis shows how the proposed model is implemented and compar
 performance of two different attention layers in the problem of energy disaggregation. The
 novel architecture achieves fast training and inference with minor performance trade-off when
 compared against other computationally expensive state-of-the-art models .
+
 Keywords: energy disaggregation, non-intrusive load monitoring, artificial
 neural networks, attention
+
+
+***Important note***
+
+In the paper the number of neurons in the Bidirectional GRU layer and the first Dense layer is noted as 128, which is WRONG.
+The RIGHT number of neurons in both layers is 64 as written in the provided code in this repository.
