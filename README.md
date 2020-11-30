@@ -17,8 +17,4 @@ compared against other computationally expensive state-of-the-art models .
 Keywords: energy disaggregation, non-intrusive load monitoring, artificial
 neural networks, attention
 
-
-***Important note***
-
-In the paper the number of neurons in the Bidirectional GRU layer and the first Dense layer is noted as 128, which is WRONG.
-The RIGHT number of neurons in both layers is 64 as written in the provided code in this repository.
+https://doi.org/10.1007/978-3-030-61527-7_36
